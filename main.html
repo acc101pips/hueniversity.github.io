@@ -31,7 +31,7 @@
           <button>Know More</button>
         </div>
         <div class="column-right">
-          <img src="./huenversity-image.svg" alt="huenversity-image-logo.png" class=".hero-image"/>
+          <img src="./huenversity-image.png" alt="huenversity-image-logo.png" class=".hero-image"/>
         </div>
       </div>
     </section>
