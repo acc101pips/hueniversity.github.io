@@ -27,7 +27,6 @@
                 then this page 
                 will help you grow your knowledge and awareness
             </p>
-          </p>
           <button>Know More</button>
         </div>
         <div class="column-right">
